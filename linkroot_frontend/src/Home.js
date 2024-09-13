@@ -33,8 +33,8 @@ export default function Home() {
                   </svg>
                 </div>
                 <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
-                  <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Sign up for a Linkshub account.</h2>
-                  <p class="leading-relaxed">You can sign up for a free Linkshub account or choose a paid plan that offers additional features.</p>
+                  <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Sign up for a LinkRoot account.</h2>
+                  <p class="leading-relaxed">You can sign up for a free LinkRoot account or choose a paid plan that offers additional features.</p>
                 </div>
               </div>
             </div>
@@ -51,7 +51,7 @@ export default function Home() {
                 </div>
                 <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
                   <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Give your link a title</h2>
-                  <p class="leading-relaxed">The title will appear as a button on your Linkshub, and the description will appear below the button.</p>
+                  <p class="leading-relaxed">The title will appear as a button on your LinkRoot, and the description will appear below the button.</p>
                 </div>
               </div>
             </div>
@@ -87,7 +87,7 @@ export default function Home() {
                 </div>
                 <div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
                   <h2 class="font-medium title-font text-gray-900 mb-1 text-xl">Save your changes.</h2>
-                  <p class="leading-relaxed">Once you've added all of your links, click on the "Update" button. Your Linkshub link is now live and you can start sharing it with your followers.</p>
+                  <p class="leading-relaxed">Once you've added all of your links, click on the "Update" button. Your LinkRoot link is now live and you can start sharing it with your followers.</p>
                 </div>
               </div>
             </div>
